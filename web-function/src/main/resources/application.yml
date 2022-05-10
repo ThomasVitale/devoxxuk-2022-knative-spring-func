@@ -1,13 +1,1 @@
-spring:
-  application:
-    name: web-function
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: health
-  endpoint:
-    health:
-      probes:
-        enabled: true
