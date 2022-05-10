@@ -1,1 +1,1 @@
-# devoxxuk-2022-knative-spring-func
+# Knative and Spring - Bringing back the func (Devoxx UK 2022)
