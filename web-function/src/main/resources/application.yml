@@ -1,6 +1,9 @@
 spring:
   application:
     name: web-function
+  cloud:
+    function:
+      definition: uppercase|sentence
 
 management:
   endpoints:
