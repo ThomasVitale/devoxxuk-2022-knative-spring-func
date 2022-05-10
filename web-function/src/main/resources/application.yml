@@ -1,16 +1,4 @@
 spring:
-  application:
-    name: web-function
   cloud:
     function:
       definition: uppercase|sentence
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: health
-  endpoint:
-    health:
-      probes:
-        enabled: true
