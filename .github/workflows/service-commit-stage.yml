@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: polarbookshop/devoxxuk/web-service
+  IMAGE_NAME: thomasvitale/devoxxuk/web-service
   VERSION: latest
 
 jobs:
